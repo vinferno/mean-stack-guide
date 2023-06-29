@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 33c80e3ae9e6663f77c4f99bcfb91d13450b2157 vinsonf <vfernandez@shift3tech.com> 1631688421 -0700	commit (initial): initial commit
+33c80e3ae9e6663f77c4f99bcfb91d13450b2157 bf42d3f8bc0d25bee0a1fb4a16ca610c19892a23 vinsonf <vfernandez@shift3tech.com> 1631689188 -0700	commit: refactor(app): remove default template
+bf42d3f8bc0d25bee0a1fb4a16ca610c19892a23 d124c0b6a3290b4dcfbfc21f8afddae7ef2e939c vinsonf <vfernandez@shift3tech.com> 1631689427 -0700	commit: step1 add ngrx schematics
+d124c0b6a3290b4dcfbfc21f8afddae7ef2e939c dc9960695446cf4ea19901dfd9666ee816ef7d10 vinsonf <vfernandez@shift3tech.com> 1631689451 -0700	commit: step1 add ngrx schematics
+dc9960695446cf4ea19901dfd9666ee816ef7d10 c1799c7e2a5cd541cb0850ef0da0caad04a66993 vinsonf <vfernandez@shift3tech.com> 1631689669 -0700	commit: step2 add store
+c1799c7e2a5cd541cb0850ef0da0caad04a66993 2c306088cdea2cd0fa134650708c7bdce2e5463f vinsonf <vfernandez@shift3tech.com> 1631689704 -0700	commit: step3 add dependencies
+2c306088cdea2cd0fa134650708c7bdce2e5463f 3080448b22b76c7064e12aa9952685fa4b5124d3 vinsonf <vfernandez@shift3tech.com> 1631689849 -0700	commit: step4 add store topic feature
+3080448b22b76c7064e12aa9952685fa4b5124d3 25c7a242e6cb87725f7da1b28a0459d3b614ede2 vinsonf <vfernandez@shift3tech.com> 1631690114 -0700	commit: topics
